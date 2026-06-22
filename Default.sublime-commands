@@ -1,0 +1,14 @@
+[
+    {
+        "caption": "GOL Check: Validate Command",
+        "command": "gol_check_validate_command"
+    },
+    {
+        "caption": "GOL Check: Validate Selection",
+        "command": "gol_check_validate_selection"
+    },
+    {
+        "caption": "GOL Check: Set Client ID",
+        "command": "gol_check_setup"
+    }
+]

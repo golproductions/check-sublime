@@ -1,0 +1,7 @@
+[
+    { "caption": "-" },
+    {
+        "caption": "Validate with Check",
+        "command": "gol_check_validate_selection"
+    }
+]
