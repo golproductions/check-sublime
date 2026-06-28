@@ -1,6 +1,6 @@
 # GOL Check for Sublime Text
 
-Anti-hallucination firewall for Sublime Text. Validates commands before execution.
+The universal anti-hallucination engine for Sublime Text.
 
 ## Install
 
@@ -13,9 +13,9 @@ Anti-hallucination firewall for Sublime Text. Validates commands before executio
 
 ## Commands
 
-- `GOL Check: Validate Command` — validate a shell command
-- `GOL Check: Validate Selection` — validate selected text (also in right-click menu)
-- `GOL Check: Set Client ID` — configure your Client ID
+- `GOL Check: Validate Command`
+- `GOL Check: Validate Selection`
+- `GOL Check: Set Client ID`
 
 ## Get a Client ID
 
